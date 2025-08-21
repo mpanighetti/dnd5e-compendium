@@ -46,11 +46,11 @@ If a resource was originally written for another document, it will include a lin
 #### Constructs
 
 - [Janus](species/constructs/janus.md)
-- [Spark](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/spark.html)
+- [Sparks](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/sparks/)
 
 #### Elementals
 
-- [Pescan](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/pescan/)
+- [Pescans](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/pescans/)
 
 #### Fey
 
@@ -58,9 +58,10 @@ If a resource was originally written for another document, it will include a lin
 
 #### Humanoids
 
-- [Cetean](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/cetean/)
-- [Desert dwarf](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/dwarf.html#a-hrefhttpsgithubcommpanighettidnd5e-speciestreemainhumanoidsdesert-dwarfmddesert-dwarfa)
-- [Dust gnome](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/gnome.html#a-hrefhttpsgithubcommpanighettidnd5e-speciestreemainhumanoidsdust-gnomemddust-gnomea)
+- [Ceteans](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/ceteans/)
+- Dwarves
+  - [Desert dwarf](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/dwarves/#desert-dwarf)
+  - [Dust gnome](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/gnomes/#dust-gnome)
 
 #### Monstrosities
 
@@ -92,7 +93,7 @@ If a resource was originally written for another document, it will include a lin
 | Cantrip | _[The Royal Decree](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | |
 | 1 | _[Equine Tribute](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#equine-tribute)_ | Conjuration/Rhythmancy | Bard | |
 | 1 | _[The Lost is Found](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#the-lost-is-found)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
-| 1 | _[Kyran's Gambit](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/mote-spells.html#a-hrefhttpsgithubcommpanighettidnd5e-spellsblobmain1st-levelkyrans-gambitmdkyrans-gambita)_ | Abjuration | Rogue (Arcane Trickster), Warlock | Concentration |
+| 1 | _[Kyran's Gambit](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/mote-spells.html#kyrans-gambit)_ | Abjuration | Rogue (Arcane Trickster), Warlock | Concentration |
 | 1 | _[Song of Storms](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#song-of-storms)_ | Evocation/Rhythmancy | Bard | Concentration |
 | 1 | _[Song of Time](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#song-of-time)_ | Abjuration/Rhythmancy | Bard | |
 | 1 | _[Summoning of the Scarecrow](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#summoning-of-the-scarecrow)_ | Conjuration/Rhythmancy | Bard | |
@@ -100,7 +101,7 @@ If a resource was originally written for another document, it will include a lin
 | 2 | _[Duet of Restoration](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#duet-of-restoration)_ | Evocation/Rhythmancy | Bard | Duet |
 | 2 | _[Elegy of Emptiness](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#elegy-of-emptiness)_ | Conjuration/Rhythmancy | Bard | |
 | 2 | _[Mike's Hard Lemonade](spells/level-2/mikes-hard-lemonade.md)_ | Evocation | Artificer (Alchemist) | |
-| 2 | _[Pass without Note](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/mote-spells.html#a-hrefhttpsgithubcommpanighettidnd5e-spellsblobmain2nd-levelpass-without-notemdpass-without-notea)_ | Enchantment | Bard, Sorcerer, Warlock, Wizard | Concentration |
+| 2 | _[Pass without Note](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/mote-spells.html#pass-without-note)_ | Enchantment | Bard, Sorcerer, Warlock, Wizard | Concentration |
 | 2 | _[Repel the Dark](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#repel-the-dark)_ | Evocation/Rhythmancy | Bard | Concentration |
 | 2 | _[Sonata of Awakening](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#sonata-of-awakening)_ | Abjuration/Rhythmancy | Bard | Concentration |
 | 2 | _[Song of Discovery](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#song-of-discovery)_ | Divination/Rhythmancy | Bard, Ranger (Wild Composer) | Concentration, Ritual |
@@ -170,7 +171,7 @@ If a resource was originally written for another document, it will include a lin
 
 #### Blessings
 
-- [Blessing of Foresight](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/supernatural-gifts.html#a-hrefhttpsgithubcommpanighettidnd5e-featsblobmainsupernatural-giftsblessingsblessing-of-foresightmdblessing-of-foresighta)
+- [Blessing of Foresight](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/supernatural-gifts.html#blessing-of-foresight)
 
 #### Charms
 
