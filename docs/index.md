@@ -88,6 +88,10 @@ If a resource was originally written for another document, it will include a lin
 | 8 | _[Ballad of Gales](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#ballad-of-gales)_ | Conjuration/Rhythmancy | Bard | |
 | 8 | _[Oath to Order](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#oath-to-order)_ | Abjuration/Rhythmancy | Bard | |
 
+#### Spell Options
+
+- _[Reincarnate](https://github.com/mpanighetti/dnd5e-updated-reincarnate-tables/blob/main/ch-2-reincarnate.md)_
+
 ### Supernatural Gifts
 
 #### Blessings
@@ -98,10 +102,6 @@ If a resource was originally written for another document, it will include a lin
 
 - [Charm of the Depths](https://github.com/mpanighetti/dnd5e-stygian-sea/blob/main/ch-4-aquatic-charms.md#charm-of-the-depths)
 - [Charm of Dragon Blood](https://github.com/mpanighetti/dnd5e-stygian-sea/blob/main/ch-4-aquatic-charms.md#charm-of-dragon-blood)
-
-#### Spell Options
-
-- _[Reincarnate](https://github.com/mpanighetti/dnd5e-updated-reincarnate-tables/blob/main/ch-2-reincarnate.md)_
 
 ### [Rules Definitions](rules-definitions.md)
 
