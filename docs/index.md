@@ -110,7 +110,7 @@ If a resource was originally written for another document, it will include a lin
 | _[Maracas of Holding](instruments/maracas-of-holding.md)_ | Instrument | Rare | Yes |
 | _[Mariner's Bow](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md#mariners-bow)_ | Weapon | Rare | Yes |
 | _[Pan de Muerto](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md#pan-de-muerto)_ | Wondrous item | Uncommon | No |
-| _[Potion of Allergy Relief](potions/potion-of-allergy-relief.md)_ | Potion | Uncommon | No |
+| _[Potion of Allergy Relief](https://github.com/mpanighetti/dnd5e-allergies/blob/main/ch-3-treating-allergies.md#potion-of-allergy-relief)_ | Potion | Uncommon | No |
 | _[Potion of Life](https://github.com/mpanighetti/dnd5e-kohls-laboratory/blob/main/ch-2-alchemist-subclass-house-of-abiogenesis.md#potion-of-life)_ | Potion (Alchemist's Potion) | | No |
 | _[Potion of Replication](https://github.com/mpanighetti/dnd5e-kohls-laboratory/blob/main/ch-3-additional-alchemists-potions.md#potion-of-replication)_ | Potion (Alchemist's Potion) | | No |
 | _[Ruby Signet](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md#ruby-signet)_ | Ring | Legendary | Yes |
