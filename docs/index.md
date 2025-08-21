@@ -92,6 +92,35 @@ If a resource was originally written for another document, it will include a lin
 
 - _[Reincarnate](https://github.com/mpanighetti/dnd5e-updated-reincarnate-tables/blob/main/ch-2-reincarnate.md)_
 
+### Magic Items
+
+| Magic Item | Category | Rarity | Requires Attunement |
+|:-|:-|:-|:-|
+| _[Angel Blade](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-10-supernatural.md#angel-blade)_ | Weapon | Rare | Yes |
+| _[Atole](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md#atole)_ | Wondrous item | Uncommon | No |
+| _[Blade of Grass](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-19-doppelganger.md#blade-of-grass)_ | Weapon | Legendary | Yes |
+| _[Calabaza en Tacha](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md#calabaza-en-tacha)_ | Wondrous item | Uncommon | No |
+| _[Calavera de Azúcar](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md#calavera-de-azúcar)_ | Wondrous item | Uncommon | No |
+| _[Chromatic Pistol](https://mpanighetti.github.io/dnd5e-mote/ch-6-mote-treasures/magic-items/chromatic-pistol.html)_ | Weapon | Uncommon | No |
+| _[Crown of Annelid Affection](magic-items/wondrous-items/crown-of-annelid-affection.md)_ | Wondrous item | Uncommon | Yes |
+| _[Dulce de Chile Caótico](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md#dulce-de-chile-caótico)_ | Wondrous item | Uncommon | No |
+| _[Emerald Signet](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md#emerald-signet)_ | Ring | Legendary | Yes |
+| _[Instrument of the Wild](instruments/instrument-of-the-wild.md)_ | Instrument | Varies | Yes (by someone able to cast Rhythmancy spells) |
+| _[Manzana Caramelada](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md#manzana-caramelada)_ | Wondrous item | Uncommon | No |
+| _[Maracas of Holding](instruments/maracas-of-holding.md)_ | Instrument | Rare | Yes |
+| _[Mariner's Bow](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md#mariners-bow)_ | Weapon | Rare | Yes |
+| _[Pan de Muerto](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md#pan-de-muerto)_ | Wondrous item | Uncommon | No |
+| _[Potion of Allergy Relief](potions/potion-of-allergy-relief.md)_ | Potion | Uncommon | No |
+| _[Potion of Life](https://github.com/mpanighetti/dnd5e-kohls-laboratory/blob/main/ch-2-alchemist-subclass-house-of-abiogenesis.md#potion-of-life)_ | Potion (Alchemist's Potion) | | No |
+| _[Potion of Replication](https://github.com/mpanighetti/dnd5e-kohls-laboratory/blob/main/ch-3-additional-alchemists-potions.md#potion-of-replication)_ | Potion (Alchemist's Potion) | | No |
+| _[Ruby Signet](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md#ruby-signet)_ | Ring | Legendary | Yes |
+| _[Sapphire Signet](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md#sapphire-signet)_ | Ring | Legendary | Yes |
+| _[Selkie Skin](https://mpanighetti.github.io/dnd5e-mote/ch-6-mote-treasures/magic-items/selkie-skin.html)_ | Wondrous item | Uncommon |
+| _[Staff of Shorsta](https://mpanighetti.github.io/dnd5e-mote/ch-6-mote-treasures/magic-items/staff-of-shorsta.html)_ | Weapon | Uncommon | Yes (requires Attunement by a Shorsta-Halasma monk) |
+| _[Silent Singer](https://github.com/Jmanrules007/Soul-Moon/blob/main/treasures/magic-items/champion-relics.md#silent-singer)_ | Weapon | Artifact | Yes (by a Bard) |
+| _[Stone of Endless Feline Pursuit](https://github.com/Jmanrules007/Soul-Moon/blob/main/treasures/magic-items/stone-of-endless-feline-pursuit.md)_ | Wondrous item | Legendary | No |
+| _[Wraps of Angelo](https://github.com/Jmanrules007/Soul-Moon/blob/main/treasures/magic-items/champion-relics.md#wraps-of-angelo)_ | Wondrous item | Artifact | Yes (by a Monk) |
+
 ### Supernatural Gifts
 
 #### Blessings

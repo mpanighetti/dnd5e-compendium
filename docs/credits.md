@@ -2,7 +2,7 @@
 
 **Designers:** [Mario Panighetti](https://mario.panighetti.net) (lead)
 
-**Developers:** Mario Panighetti (lead)
+**Developers:** Mario Panighetti (lead), [Haru](https://twitter.com/200dollarHaru) (_Silent Singer_)
 
 ## Third-Party Content References
 
