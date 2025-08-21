@@ -34,6 +34,42 @@ If a resource was originally written for another document, it will include a lin
 - [Endless Hunger Patron](classes/warlock/endless-hunger-patron.md)
 - [Power of Friendship Patron](classes/warlock/power-of-friendship-patron.md)
 
+### Species
+
+#### Beasts
+
+- [Hidden Heroes](species/beasts/hidden-heroes.md)
+  - [Crab](species/beasts/hidden-heroes.md#crab)
+  - [Rat](species/beasts/hidden-heroes.md#rat)
+  - [Spider](species/beasts/hidden-heroes.md#spider)
+
+#### Constructs
+
+- [Janus](species/constructs/janus.md)
+- [Spark](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/spark.html)
+
+#### Elementals
+
+- [Pescan](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/pescan/)
+
+#### Fey
+
+- [Selkie](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/selkie/)
+
+#### Humanoids
+
+- [Cetean](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/cetean/)
+- [Desert dwarf](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/dwarf.html#a-hrefhttpsgithubcommpanighettidnd5e-speciestreemainhumanoidsdesert-dwarfmddesert-dwarfa)
+- [Dust gnome](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/gnome.html#a-hrefhttpsgithubcommpanighettidnd5e-speciestreemainhumanoidsdust-gnomemddust-gnomea)
+
+#### Monstrosities
+
+- [Brakko](https://mpanighetti.github.io/dnd5e-mote/ch-5-character-options/species/brakko/)
+
+#### Oozes
+
+- [Oozeborn](species/oozes/oozeborn.md)
+
 ### Feats
 
 #### Origin Feats

@@ -4,6 +4,8 @@
 
 **Developers:** Mario Panighetti (lead), [Haru](https://twitter.com/200dollarHaru) (_Silent Singer_)
 
+**Illustrators:** [TigerLilyNoh](https://tigerlilynoh.tumblr.com) (**Janus**)
+
 ## Third-Party Content References
 
 The materials below are referenced under fair use exemption of the U.S. Copyright Law and are restricted from further use. These materials, including references to game mechanics, are not approved or endorsed by the copyright holders and do not constitute any license or agreement with the copyright holders.
@@ -35,6 +37,8 @@ _Baldur's Gate: Descent into Avernus_ © 2019 Wizards of the Coast LLC.
 _Eberron: Rising from the Last War_ © 2019 Wizards of the Coast LLC.
 
 _Ghosts of Saltmarsh_ © 2019 Wizards of the Coast LLC.
+
+_[Hidden Heroes of the Awakened Woods](https://www.spacedaddygames.com/hidden-heroes)_ © 2019 Space Daddy Games LLC.
 
 _Locathah Rising_ © 2019 Wizards of the Coast LLC.
 
