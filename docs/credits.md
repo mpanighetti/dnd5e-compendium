@@ -12,6 +12,8 @@ _Dungeon Master's Guide (2014)_ © 2014 Wizards of the Coast LLC.
 
 _Player's Handbook (2014)_ © 2014 Wizards of the Coast LLC.
 
+_Elemental Evil Player's Companion_ © 2015 Wizards of the Coast LLC.
+
 _[Unearthed Arcana: Modern Magic](https://media.wizards.com/2015/downloads/dnd/UA_ModernMagic.pdf)_ © 2015 Wizards of the Coast LLC; Author Daniel Helmick.
 
 _One Grung Above_ © 2017 Wizards of the Coast LLC.
@@ -28,7 +30,11 @@ _Sword Coast Adventurer's Guide_ © 2018 Wizards of the Coast LLC.
 
 _Acquisitions Incorporated_ © 2019 Wizards of the Coast LLC.
 
+_Baldur's Gate: Descent into Avernus_ © 2019 Wizards of the Coast LLC.
+
 _Eberron: Rising from the Last War_ © 2019 Wizards of the Coast LLC.
+
+_Ghosts of Saltmarsh_ © 2019 Wizards of the Coast LLC.
 
 _Locathah Rising_ © 2019 Wizards of the Coast LLC.
 
@@ -37,6 +43,10 @@ Endless Hunger Patron is [based on a concept by thegreateyeofsauron, submitted t
 _Explorer's Guide to Wildemount_ © 2020 Wizards of the Coast LLC.
 
 _Mythic Odysseys of Theros_ © 2020 Wizards of the Coast LLC.
+
+_Tasha's Cauldron of Everything_ © 2020 Wizards of the Coast LLC.
+
+_Candlekeep Mysteries_ © 2021 Wizards of the Coast LLC.
 
 _Fizban's Treasury of Dragons_ © 2021 Wizards of the Coast LLC.
 
