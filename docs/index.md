@@ -39,7 +39,7 @@ If a resource was originally written for another document, it will include a lin
 #### Spell List
 
 | Level | Spell | School | Class | Tags |
-|:-:|:-|:-|:-|:-|:-|
+|:-:|:-|:-|:-|:-|
 | Cantrip | _[Ballad of the Dreamer](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#ballad-of-the-dreamer)_ | Abjuration/Rhythmancy | Bard | |
 | Cantrip | _[The Hawk's Call](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#the-hawks-call)_ | Evocation/Rhythmancy | Bard | |
 | Cantrip | _[The Royal Decree](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-5-rhythmancy-spells.md#the-royal-decree)_ | Enchantment/Rhythmancy | Bard | |
