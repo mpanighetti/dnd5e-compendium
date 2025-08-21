@@ -36,11 +36,14 @@ If a resource was originally written for another document, it will include a lin
 
 ### Feats
 
-| Feat | Category | Source |
-|:-|:-|:-|
-| [Beastlands Touched](feats/origin-feats/beastlands-touched.md) | Origin | |
-| [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-4-rhythmancy-feats.md#rhythmancy-initiate) | Origin | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
-| [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-4-rhythmancy-feats.md#rhythmancy-adept) | General | [Rhythmancy: The Magic of Music](https://github.com/mpanighetti/dnd5e-rhythmancy) |
+#### Origin Feats
+
+- [Beastlands Touched](feats/origin-feats/beastlands-touched.md)
+- [Rhythmancy Initiate](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-4-rhythmancy-feats.md#rhythmancy-initiate)
+
+#### General Feats
+
+- [Rhythmancy Adept](https://github.com/mpanighetti/dnd5e-rhythmancy/blob/main/ch-4-rhythmancy-feats.md#rhythmancy-adept)
 
 ### Spells
 
@@ -121,6 +124,12 @@ If a resource was originally written for another document, it will include a lin
 | _[Stone of Endless Feline Pursuit](https://github.com/Jmanrules007/Soul-Moon/blob/main/treasures/magic-items/stone-of-endless-feline-pursuit.md)_ | Wondrous item | Legendary | No |
 | _[Wraps of Angelo](https://github.com/Jmanrules007/Soul-Moon/blob/main/treasures/magic-items/champion-relics.md#wraps-of-angelo)_ | Wondrous item | Artifact | Yes (by a Monk) |
 
+### Vehicles
+
+- [Bathýs](vehicles/bathys.md)
+- [Skate](vehicles/skate.md)
+- [Starfire Ship](vehicles/starfire-ship.md)
+
 ### Supernatural Gifts
 
 #### Blessings
@@ -131,6 +140,72 @@ If a resource was originally written for another document, it will include a lin
 
 - [Charm of the Depths](https://github.com/mpanighetti/dnd5e-stygian-sea/blob/main/ch-4-aquatic-charms.md#charm-of-the-depths)
 - [Charm of Dragon Blood](https://github.com/mpanighetti/dnd5e-stygian-sea/blob/main/ch-4-aquatic-charms.md#charm-of-dragon-blood)
+
+### Monsters
+
+| Creature Type | Monster | Challenge |
+|:-------------:|:--------|:---------:|
+|  Aberration   | [Apep the Fallen](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-31-chaos.md#apep-the-fallen) | 30 |
+|  Aberration   | [Bears Repeating](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-25-abomination.md#bears-repeating) | 24 |
+|  Aberration   | [Echoes of a Failed World](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-30-this-is-not-a-place-of-honor.md#echoes-of-a-failed-world) | 29 |
+|  Aberration   | [False Shadow](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-08-psychopomp.md#false-shadow) | 7 |
+|  Aberration   | [Goren Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md#goren-rousseau) | 5 |
+|  Aberration   | [Living Empty](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-20-expanse.md#living-empty) | 19 |
+|  Aberration   | [Seaharvest Horror](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-13-b-movie-monster.md#seaharvest-horror) | 12 |
+|     Beast     | [Crabnado](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-29-kaiju.md#crabnado) | 3 |
+|     Beast     | [Dallasaurus](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-16-prehistoric.md#dallasaurus) | 1 |
+|     Beast     | [Drop Bear](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-11-beast.md#drop-bear) | 3 |
+|     Beast     | [Giant Squid](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-07-the-deep.md#giant-squid) | 6 |
+|     Beast     | [Liodon](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-16-prehistoric.md#liodon) | 6 |
+|     Beast     | [Malagwan Seal](https://mpanighetti.github.io/dnd5e-mote/ch-7-mote-bestiary/malagwan-seal.html) | ⅛ |
+|     Beast     | [Mosasaurus](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-16-prehistoric.md#mosasaurus) | 15 |
+|     Beast     | [Platecarpus](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-16-prehistoric.md#platecarpus) | 3 |
+|   Celestial   | [Fallen Angel](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-10-supernatural.md#fallen-angel) | 9 |
+|   Construct   | [Animated Corset](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-12-accursed.md#animated-corset) | 1 |
+|   Construct   | [Animated Pair of Boots](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-12-accursed.md#animated-pair-of-boots) | ½ |
+|   Construct   | [Animated Pair of Gloves](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-12-accursed.md#animated-pair-of-gloves) | 1 |
+|   Construct   | [Esqueleto de Azúcar](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/guadana.md#esqueleto-de-azúcar) | ¼ |
+|   Construct   | [Soul Warden](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-21-mecha.md#soul-warden) | 20 |
+|   Construct   | [Swarm of Trickered Treats](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-01-trick-or-treat.md#swarm-of-trickered-treats) | ¼ |
+|   Construct   | [Trickered Treat](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-01-trick-or-treat.md#trickered-treat) | 0 |
+|    Dragon     | [Adult Void Dragon](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-24-outer-space.md#adult-void-dragon) | 16 |
+|    Dragon     | [Ancient Void Dragon](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-24-outer-space.md#ancient-void-dragon) | 23 |
+|    Dragon     | [Spelunkamander](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-23-caves.md#spelunkamander) | 22 |
+|    Dragon     | [Void Dragon Wyrmling](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-24-outer-space.md#void-dragon-wyrmling) | 2 |
+|    Dragon     | [Young Void Dragon](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-24-outer-space.md#young-void-dragon) | 9 |
+|   Elemental   | [Dire Clam](https://mpanighetti.github.io/dnd5e-mote/ch-7-mote-bestiary/dire-clam.html) | 4 |
+|   Elemental   | [Thunderbird](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-27-mythology.md) | 26 |
+|      Fey      | [Barista Dryad](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-09-pumpkin-spice.md) | 8 |
+|      Fey      | [Passenger Sprite](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-17-fairytale.md) | ½ |
+|      Fey      | [Passenger Sprite Cloud](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-17-fairytale.md) | 16 |
+|      Fey      | [Phygius](https://mpanighetti.github.io/dnd5e-mote/ch-3-stories-of-mote/pantheons/phygius.html) | 25 |
+|      Fey      | [Selkie Warrior](https://mpanighetti.github.io/dnd5e-mote/ch-7-mote-bestiary/selkie-warrior.html) | 1 |
+|     Fiend     | [Ag'dramur](https://github.com/mpanighetti/dnd5e-stygian-sea/blob/main/ch-3-creatures.md#agdramur) | 6 |
+|     Fiend     | [The Boss from Hell](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-18-boss-monster.md#the-boss-from-hell) | 17 |
+|    Humanoid   | [Galos the Clothier](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-12-accursed.md#galos-the-clothier) | 11 |
+|    Humanoid   | [The Great Undying](https://github.com/mpanighetti/dnd5e-stygian-sea/blob/main/ch-3-creatures.md#the-great-undying) | 5 |
+|    Humanoid   | [Werechimp](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-03-misunderstood-monster.md#werechimp) | 2 |
+|  Monstrosity  | [Beer](monsters/monstrosities/beer.md) | 3 |
+|  Monstrosity  | [Cuckoo Mimic](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-05-parasite.md#cuckoo-mimic) | 4 |
+|  Monstrosity  | [Dire Drop Bear](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-11-beast.md#dire-drop-bear) | 10 |
+|  Monstrosity  | [The King of Crabs](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-29-kaiju.md#the-king-of-crabs) | 28 |
+|  Monstrosity  | [Leviathan Beetle](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-22-insects.md#leviathan-beetle) | 21 |
+|  Monstrosity  | [Murexian Beholder](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-14-forest.md#murexian-beholder) | 13 |
+|  Monstrosity  | [Murexian Giant Boar](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-14-forest.md#murexian-giant-boar) | 2 |
+|  Monstrosity  | [Murexian Hellwasp](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-14-forest.md#murexian-hellwasp) | 5 |
+|  Monstrosity  | [Murexian Squirrel](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-14-forest.md#murexian-squirrel) | 0 |
+|  Monstrosity  | [Murexian Twig Blight](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-14-forest.md#murexian-twig-blight) | ⅛ |
+|  Monstrosity  | [Murexian Tyrannosaurus rex](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-14-forest.md#murexian-tyrannosaurus-rex) | 10 |
+|      Ooze     | [Gray Goo](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-28-end-of-the-world.md#gray-goo) | 27 |
+|      Ooze     | [Snot Hag](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-06-ooze.md#snot-hag) | 5 |
+|     Plant     | [Grass Warrior](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-19-doppelganger.md#grass-warrior) | 18 |
+|     Plant     | [Grinning Gourd](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-04-spoopy.md#grinning-gourd) | 3 |
+|    Special    | [Alchemist's Monster](https://github.com/mpanighetti/dnd5e-kohls-laboratory/blob/main/ch-2-alchemist-subclass-house-of-abiogenesis.md#alchemists-monster) | — |
+|     Undead    | [Avatar of Debt](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-02-capitalism.md#avatar-of-debt) | 1+ |
+|     Undead    | [Frogpire](monsters/undead/frogpire.md) | 1 |
+|     Undead    | [Lichmare](https://github.com/mpanighetti/dnd5e-030crc/blob/main/2021-10-15-undead.md) | 14 |
+|     Undead    | [Neta Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md#neta-rousseau) | 2 |
+|     Undead    | [Ulvaeus Rousseau](https://github.com/mpanighetti/dnd5e-adventures/blob/main/tier-2/chateau-rousseau.md#ulvaeus-rousseau) | 2 |
 
 ### [Rules Definitions](rules-definitions.md)
 
